@@ -26,3 +26,17 @@ Badminton offers a unique blend of __physical exercise__ and **mental challenge*
 > _Jerry Seinfeld_
 
 ---
+### How to Update an existing file in Node.js
+Add to an existing file’s contents without overwriting the file and only updating at the end.
+~~~
+
+const fileSystem = require('fs');
+
+const updateFile = (fileName, text) => {
+	fileSystem.appendFile(fileName, text, (error) => {
+		if (error) throw error;
+		console.log('Updated the file!');
+	});
+};  
+~~~
+[Snippet Source](https://stackoverflow.com/questions/10685998/how-to-update-a-value-in-a-json-file-and-save-it-through-node-js)
