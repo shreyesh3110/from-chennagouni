@@ -19,8 +19,10 @@ Badminton offers a unique blend of __physical exercise__ and **mental challenge*
 
 ---
 ### Favourite Quotes
-"I’m afraid of heights. I’m also afraid of widths. I have a lot of fears."
-"It’s amazing that the amount of news that happens in the world every day always just exactly fits the newspaper."
-_Jerry Seinfeld_
+> "I’m afraid of heights. I’m also afraid of widths. I have a lot of fears."
+> 
+> "It’s amazing that the amount of news that happens in the world every day always just exactly fits the newspaper."
+> 
+> _Jerry Seinfeld_
 
 ---
