@@ -9,4 +9,8 @@ Badminton offers a unique blend of __physical exercise__ and **mental challenge*
 3. Lee Zii Jia
 4. Li Shifeng
 5. Anders Antonsen
-
+### Places you can play the sport
+* Badminton Court
+* Playground
+* Backyard
+* Garden
