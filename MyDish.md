@@ -4,5 +4,5 @@ flavorful ingredients that come together in perfect harmony. The layers of fragr
 juicy meat or vegetables create a delightful contrast in texture and taste. Its versatility allows for 
 a variety of regional twists, ensuring there's a biryani to suit every palate.
 
-![Biryani](chicken-hyderabadi-biryani-01.jpg)
+![Biryani](biryani.jpg)
 ---
